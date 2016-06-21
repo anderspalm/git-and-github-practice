@@ -3,12 +3,22 @@
  */
 public class intro_lab {
 
-public static void car() {
+
 
 }
 
-    public static void main() {
+public class Car {
+    int friend = 10;
+    String horsepower = "vroom";
+    String speed = "let's go!";
+}
+
+
+    public class Main() {
+
 
     }
+
+public class Garage {
 
 }
